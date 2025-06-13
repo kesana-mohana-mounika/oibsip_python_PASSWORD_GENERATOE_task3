@@ -139,7 +139,7 @@ jupyter notebook
 
 🔗 LinkedIn Post
 
-Check out the project shared on LinkedIn:https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_oibsip-oibsip-python-activity-7339164267847294976-zSvP?utm_source=share&utm_medium=member_android&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE
+Check out the project shared on LinkedIn:(https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_oibsip-oibsip-python-activity-7339164267847294976-zSvP?utm_source=share&utm_medium=member_android&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE)
 🔗 View on LinkedIn
 
 
