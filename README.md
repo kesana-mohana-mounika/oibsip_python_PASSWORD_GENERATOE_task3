@@ -1,5 +1,5 @@
 # oibsip_python_PASSWORD_GENERATOE_task3
-
+ 
 🔐 Advanced Password Generator
 
 An advanced and secure password generator built using Python. This tool offers both Command-Line Interface (CLI) and Graphical User Interface (GUI) modes. It enables users to create strong, random passwords based on customizable criteria including length, letters, numbers, and symbols.
@@ -27,9 +27,44 @@ Python (Core Language)
 
 Tkinter (for GUI development)
 
-pyperclip (for clipboard operations)
+pyperclip (for clipboa…
+[10:49 AM, 6/13/2025] ~MOHANA: Sure! Here's your fully updated README.md for the project, reflecting the new filename password_generator_both_client_interface_gui.ipynb:
 
-string & random libraries (for password generation)
+
+---
+
+🔐 Advanced Password Generator
+
+An advanced and secure password generator developed in Python, implemented in a Jupyter Notebook. This tool supports both Command-Line Interface (CLI) and Graphical User Interface (GUI) modes, allowing users to generate strong, customizable passwords. The GUI also offers clipboard integration for quick use.
+
+
+---
+
+🧠 Objectives
+
+Generate strong, secure, and random passwords.
+
+Allow users to define password length and character types (letters, numbers, symbols).
+
+Provide both CLI and GUI interaction options.
+
+Offer clipboard copy functionality in GUI mode for convenience.
+
+
+
+---
+
+🛠️ Tools and Technologies
+
+Python
+
+Tkinter – for GUI development
+
+pyperclip – for clipboard functionality
+
+Jupyter Notebook – for an interactive development environment
+
+string and random – for password generation logic
 
 
 
@@ -37,24 +72,26 @@ string & random libraries (for password generation)
 
 ✨ Features
 
-CLI Mode
+✅ Command-Line Interface (CLI)
 
-Input-based interface in the terminal.
+Simple text-based interaction.
 
-Choose whether to include letters, numbers, and/or symbols.
+User can specify password length and inclusion of letters, numbers, symbols.
 
-Outputs generated password in the console.
+Password is printed directly to the terminal.
 
 
-GUI Mode
+🖼️ Graphical User Interface (GUI)
 
-User-friendly graphical window with checkboxes and input fields.
+Interactive GUI with checkboxes for character types.
 
-Easy password generation with a button click.
+Input field to set password length.
 
-Option to copy password directly to clipboard.
+Button to generate the password.
 
-Styled window for better UX.
+Option to copy the password directly to clipboard.
+
+Clean, user-friendly layout using Tkinter.
 
 
 
@@ -64,8 +101,8 @@ Styled window for better UX.
 
 File Name	Description
 
-main.py	Main Python file with all logic and interface.
-README.md	Project documentation and guide.
+README.md	Project documentation and usage instructions.
+password_generator_both_client_interface_gui.ipynb	Jupyter Notebook containing both CLI and GUI implementation.
 
 
 
@@ -75,28 +112,34 @@ README.md	Project documentation and guide.
 
 Prerequisites
 
-Ensure Python is installed and required packages are available:
+Install the required Python library:
 
 pip install pyperclip
 
-Run CLI Mode
+Run in Jupyter Notebook
 
-python main.py
+1. Open Jupyter Notebook:
 
-Select option 1 to run in CLI.
+jupyter notebook
 
-Run GUI Mode
 
-python main.py
+2. Navigate to and open password_generator_both_client_interface_gui.ipynb.
 
-Select option 2 to run in GUI.
+
+3. Run each cell sequentially.
+
+
+
+> You can choose CLI or GUI mode when prompted within the notebook.
+
+
 
 
 ---
 
 🔗 LinkedIn Post
 
-Check out the project post and working demo on LinkedIn:
+Check out the project shared on LinkedIn:
 🔗 View on LinkedIn
 
 
@@ -104,11 +147,13 @@ Check out the project post and working demo on LinkedIn:
 
 ✅ Outcome
 
-Developed an advanced password generator with dual interface modes.
+Created an advanced password generator with dual interaction modes.
 
-Improved user interaction and usability with GUI and clipboard support.
+Ensured flexibility with character selection and length customization.
 
-Met security requirements by enabling character-type customizations.
+Enhanced user experience with clipboard integration in GUI.
+
+Packaged in a single interactive .ipynb file for easy testing and learning.
 
 
 
@@ -117,3 +162,5 @@ Met security requirements by enabling character-type customizations.
 🙏 Acknowledgement
 
 This project is a part of the #OIBSIP Internship Program.
+
+
