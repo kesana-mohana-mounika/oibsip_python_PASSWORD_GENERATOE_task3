@@ -28,7 +28,7 @@ Python (Core Language)
 Tkinter (for GUI development)
 
 pyperclip (for clipboa…
-[10:49 AM, 6/13/2025] ~MOHANA: Sure! Here's your fully updated README.md for the project, reflecting the new filename password_generator_both_client_interface_gui.ipynb:
+ Sure! Here's your fully updated README.md for the project, reflecting the new filename password_generator_both_cli_interface_gui.ipynb:
 
 
 ---
@@ -102,7 +102,7 @@ Clean, user-friendly layout using Tkinter.
 File Name	Description
 
 README.md	Project documentation and usage instructions.
-password_generator_both_client_interface_gui.ipynb	Jupyter Notebook containing both CLI and GUI implementation.
+password_generator_both_cli_interface_gui.ipynb	Jupyter Notebook containing both CLI and GUI implementation.
 
 
 
@@ -123,7 +123,7 @@ Run in Jupyter Notebook
 jupyter notebook
 
 
-2. Navigate to and open password_generator_both_client_interface_gui.ipynb.
+2. Navigate to and open password_generator_both_cli_interface_gui.ipynb.
 
 
 3. Run each cell sequentially.
